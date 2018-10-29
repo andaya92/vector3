@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Sample Text 
 
 
 Chris Text
+=======
+Sample Text
+
+This is my Test Text - Austin
+>>>>>>> 96aa4a38d3ce14c889f67ab2cd41a0f928df0e47
